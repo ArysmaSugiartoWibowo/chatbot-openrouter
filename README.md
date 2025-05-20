@@ -29,6 +29,4 @@ Aplikasi chatbot sederhana menggunakan:
 ---
 
 ## Cara Menjalankan Aplikasi
-
-### 1. Persiapan
  node index.js
